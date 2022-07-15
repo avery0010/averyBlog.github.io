@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="http://javapub.net.cn/averyBlog.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Avery</title>
+    <link>http://javapub.net.cn/averyBlog.github.io/</link>
+    <description>Avery的学习成长记录</description>
+    <language>en-US</language>
+    <pubDate>Fri, 15 Jul 2022 09:54:23 GMT</pubDate>
+    <lastBuildDate>Fri, 15 Jul 2022 09:54:23 GMT</lastBuildDate>
+    <generator>vuepress-plugin-feed2</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>使用指南</category>
+    <item>
+      <title>页面配置</title>
+      <link>http://javapub.net.cn/averyBlog.github.io/guide/page.html</link>
+      <guid>http://javapub.net.cn/averyBlog.github.io/guide/page.html</guid>
+      <source url="http://javapub.net.cn/averyBlog.github.io/rss.xml">页面配置</source>
+      <description>more 注释之前的内容被视为文章摘要。
+</description>
+      <category>使用指南</category>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p><code>more</code> 注释之前的内容被视为文章摘要。</p>
+
+<h2 id="页面信息" tabindex="-1"> 页面信息</h2>
+<p>你可以在 Markdown 的 Frontmatter 中设置页面信息。</p>
+<ul>
+<li>
+<p>作者设置为 Ms.Hope。</p>
+</li>
+<li>
+<p>写作时间应为 2020 年 1 月 1 日</p>
+</li>
+<li>
+<p>分类为 “使用指南”</p>
+</li>
+<li>
+<p>标签为 “页面配置” 和 “使用指南”</p>
+</li>
+</ul>
+<h2 id="页面内容" tabindex="-1"> 页面内容</h2>
+<p>你可以自由在这里书写你的 Markdown。</p>
+<div><p>Tips</p>
+<ul>
+<li>
+<p>Markdown 文件夹的图片请使用相对链接 <code>./</code> 进行引用。</p>
+</li>
+<li>
+<p><code>.vuepress/public</code> 文件夹的图片，请使用绝对链接 <code>/</code> 进行引用</p>
+</li>
+</ul>
+</div>
+<p>主题包含了一个自定义徽章章可以使用:</p>
+<blockquote>
+<p>文字结尾应该有深蓝色的 徽章文字 徽章。 <i>Content not supported</i></p>
+</blockquote>
+<h2 id="页面结构" tabindex="-1"> 页面结构</h2>
+<p>此页面应当包含：</p>
+<ul>
+<li>返回顶部按钮</li>
+<li>路径导航</li>
+<li>评论</li>
+<li>页脚</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>页面配置</title>
+      <link>http://javapub.net.cn/averyBlog.github.io/zh/guide/page.html</link>
+      <guid>http://javapub.net.cn/averyBlog.github.io/zh/guide/page.html</guid>
+      <source url="http://javapub.net.cn/averyBlog.github.io/rss.xml">页面配置</source>
+      <description>more 注释之前的内容被视为文章摘要。
+</description>
+      <category>使用指南</category>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p><code>more</code> 注释之前的内容被视为文章摘要。</p>
+
+<h2 id="页面信息" tabindex="-1"> 页面信息</h2>
+<p>你可以在 Markdown 的 Frontmatter 中设置页面信息。</p>
+<ul>
+<li>
+<p>作者设置为 Ms.Hope。</p>
+</li>
+<li>
+<p>写作时间应为 2020 年 1 月 1 日</p>
+</li>
+<li>
+<p>分类为 “使用指南”</p>
+</li>
+<li>
+<p>标签为 “页面配置” 和 “使用指南”</p>
+</li>
+</ul>
+<h2 id="页面内容" tabindex="-1"> 页面内容</h2>
+<p>你可以自由在这里书写你的 Markdown。</p>
+<div><p>提示</p>
+<ul>
+<li>
+<p>Markdown 文件夹的图片请使用相对链接 <code>./</code> 进行引用。</p>
+</li>
+<li>
+<p><code>.vuepress/public</code> 文件夹的图片，请使用绝对链接 <code>/</code> 进行引用</p>
+</li>
+</ul>
+</div>
+<p>主题包含了一个自定义徽章章可以使用:</p>
+<blockquote>
+<p>文字结尾应该有深蓝色的 徽章文字 徽章。 <i>Content not supported</i></p>
+</blockquote>
+<h2 id="页面结构" tabindex="-1"> 页面结构</h2>
+<p>此页面应当包含：</p>
+<ul>
+<li>返回顶部按钮</li>
+<li>路径导航</li>
+<li>评论</li>
+<li>页脚</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Intro Page</title>
+      <link>http://javapub.net.cn/averyBlog.github.io/intro.html</link>
+      <guid>http://javapub.net.cn/averyBlog.github.io/intro.html</guid>
+      <source url="http://javapub.net.cn/averyBlog.github.io/rss.xml">Intro Page</source>
+      <content:encoded><![CDATA[<h1 id="intro-page" tabindex="-1"> Intro Page</h1>
+<p>Place your introducation and profile here.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>幻灯片页</title>
+      <link>http://javapub.net.cn/averyBlog.github.io/slide.html</link>
+      <guid>http://javapub.net.cn/averyBlog.github.io/slide.html</guid>
+      <source url="http://javapub.net.cn/averyBlog.github.io/rss.xml">幻灯片页</source>
+      <content:encoded><![CDATA[
+<i>Content not supported</i>]]></content:encoded>
+      <enclosure url="http://javapub.net.cn/averyBlog.github.io/logo.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>组件禁用</title>
+      <link>http://javapub.net.cn/averyBlog.github.io/guide/disable.html</link>
+      <guid>http://javapub.net.cn/averyBlog.github.io/guide/disable.html</guid>
+      <source url="http://javapub.net.cn/averyBlog.github.io/rss.xml">组件禁用</source>
+      <description>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。
+</description>
+      <category>使用指南</category>
+      <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
+
+<p>本页面应当禁用了:</p>
+<ul>
+<li>导航栏</li>
+<li>侧边栏</li>
+<li>路径导航</li>
+<li>页面信息</li>
+<li>贡献者</li>
+<li>编辑此页链接</li>
+<li>更新时间</li>
+<li>上一篇/下一篇 链接</li>
+<li>评论</li>
+<li>页脚</li>
+<li>返回顶部按钮</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>密码加密的文章</title>
+      <link>http://javapub.net.cn/averyBlog.github.io/guide/encrypt.html</link>
+      <guid>http://javapub.net.cn/averyBlog.github.io/guide/encrypt.html</guid>
+      <source url="http://javapub.net.cn/averyBlog.github.io/rss.xml">密码加密的文章</source>
+      <category>使用指南</category>
+      <content:encoded><![CDATA[<h1 id="密码加密的文章" tabindex="-1"> 密码加密的文章</h1>
+<p>实际的文章内容。</p>
+<p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
+<p>段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Markdown 增强</title>
+      <link>http://javapub.net.cn/averyBlog.github.io/guide/markdown.html</link>
+      <guid>http://javapub.net.cn/averyBlog.github.io/guide/markdown.html</guid>
+      <source url="http://javapub.net.cn/averyBlog.github.io/rss.xml">Markdown 增强</source>
+      <description>VuePress 的每个文档页面都是由 Markdown 渲染而成。所以你需要通过在相应路径创建编写 Markdown 建立你的文档或博客页面。
+</description>
+      <category>使用指南</category>
+      <content:encoded><![CDATA[<p>VuePress 的每个文档页面都是由 Markdown 渲染而成。所以你需要通过在相应路径创建编写 Markdown 建立你的文档或博客页面。</p>
+
+<h2 id="markdown-介绍" tabindex="-1"> Markdown 介绍</h2>
+<p>如果你是一个新手，还不会编写 Markdown，请先阅读 <a href="https://vuepress-theme-hope.github.io/v2/zh/basic/markdown/README.html" target="_blank" rel="noopener noreferrer">Markdown 介绍</a> 和 <a href="https://vuepress-theme-hope.github.io/v2/zh/basic/markdown/demo.html" target="_blank" rel="noopener noreferrer">Markdown 演示</a>。</p>
+<div><p>Frontmatter</p>
+<p>Frontmatter 是 VuePress 中很重要的一个概念，如果你不了解它，你需要阅读 <a href="https://vuepress-theme-hope.github.io/v2/zh/basic/vuepress/page.html#front-matter" target="_blank" rel="noopener noreferrer">Frontmatter 介绍</a>。</p>
+</div>
+<h2 id="vuepress-扩展" tabindex="-1"> VuePress 扩展</h2>
+<p>为了丰富文档写作，VuePress 对 Markdown 语法进行了扩展。</p>
+<p>关于这些扩展，请阅读 <a href="https://vuepress-theme-hope.github.io/v2/zh/basic/vuepress/markdown.html" target="_blank" rel="noopener noreferrer">VuePress 中的 Markdown 扩展</a>。</p>
+<h2 id="主题扩展" tabindex="-1"> 主题扩展</h2>
+<h3 id="一键启用" tabindex="-1"> 一键启用</h3>
+<p>你可以设置 <code>themeconfig.plugins.htmlEnhance.enableAll</code> 启用 <a href="https://vuepress-theme-hope.github.io/v2/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a> 插件的所有功能。</p>
+<div><pre><code>module<span>.</span>exports <span>=</span> <span>{</span>
+  <span>themeConfig</span><span>:</span> <span>{</span>
+    <span>plugins</span><span>:</span> <span>{</span>
+      <span>mdEnhance</span><span>:</span> <span>{</span>
+        <span>enableAll</span><span>:</span> <span>true</span><span>,</span>
+      <span>}</span><span>,</span>
+    <span>}</span><span>,</span>
+  <span>}</span><span>,</span>
+<span>}</span><span>;</span>
+</code></pre><div><br><br><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div><br><br><br><br></div><div aria-hidden="true"><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div><h3 id="自定义容器" tabindex="-1"> 自定义容器</h3>
+<div>
+<p>安全的在 Markdown 中使用 {{ variable }}。</p>
+</div>
+<div><p>自定义标题</p>
+<p>信息容器，包含 <code>代码</code> 与 。</p>
+<div><pre><code><span>const</span> a <span>=</span> <span>1</span><span>;</span>
+</code></pre><div aria-hidden="true"><span>1</span><br></div></div></div>
+<div><p>自定义标题</p>
+<p>提示容器</p>
+</div>
+<div><p>自定义标题</p>
+<p>警告容器</p>
+</div>
+<div><p>自定义标题</p>
+<p>危险容器</p>
+</div>
+<details><summary>自定义标题</summary>
+<p>详情容器</p>
+</details>
+<details><summary>代码</summary>
+<div><pre><code>:::
+
+安全的在 Markdown 中使用 {{ variable }}。
+
+:::
+
+::: info 自定义标题
+
+信息容器
+
+:::
+
+::: tip 自定义标题
+
+提示容器
+
+:::
+
+::: warning 自定义标题
+
+警告容器
+
+:::
+
+::: danger 自定义标题
+
+危险容器
+
+:::
+
+::: details 自定义标题
+
+详情容器
+
+:::
+</code></pre><div aria-hidden="true"><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br></div></div></details>
+<ul>
+<li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/container.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
+</ul>
+<h3 id="代码块" tabindex="-1"> 代码块</h3>
+<CodeGroup>
+<CodeGroupItem title="yarn">
+<div><pre><code><span>yarn</span> <span>add</span> -D vuepress-theme-hope
+</code></pre><div aria-hidden="true"><span>1</span><br></div></div></CodeGroupItem>
+<CodeGroupItem title="npm" active>
+<div><pre><code><span>npm</span> i -D vuepress-theme-hope
+</code></pre><div aria-hidden="true"><span>1</span><br></div></div></CodeGroupItem>
+</CodeGroup>
+<ul>
+<li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/code-group.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
+</ul>
+<h3 id="自定义对齐" tabindex="-1"> 自定义对齐</h3>
+<div>
+<p>我是居中的</p>
+</div>
+<div>
+<p>我在右对齐</p>
+</div>
+<ul>
+<li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/align.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
+</ul>
+<h3 id="上下角标" tabindex="-1"> 上下角标</h3>
+<p>19<sup>th</sup> H<sub>2</sub>O</p>
+<ul>
+<li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/sup-sub.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
+</ul>
+<h3 id="脚注" tabindex="-1"> 脚注</h3>
+<p>此文字有脚注<sup></sup>.</p>
+<ul>
+<li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/footnote.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
+</ul>
+<h3 id="标记" tabindex="-1"> 标记</h3>
+<p>你可以标记 <mark>重要的内容</mark> 。</p>
+<ul>
+<li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/mark.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
+</ul>
+<h3 id="任务列表" tabindex="-1"> 任务列表</h3>
+<ul>
+<li>
+<p><input type="checkbox" checked="checked" disabled="disabled" id="task-item-0"><label for="task-item-0"> 计划 1</label></p>
+</li>
+<li>
+<p><input type="checkbox"  disabled="disabled" id="task-item-1"><label for="task-item-1"> 计划 2</label></p>
+</li>
+<li>
+<p><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/tasklist.html" target="_blank" rel="noopener noreferrer">查看详情</a></p>
+</li>
+</ul>
+<h3 id="图表" tabindex="-1"> 图表</h3>
+<ChartJS title="一个散点图案例" id="chart-64a56f28" config="%7B%0A%20%20%22type%22%3A%20%22scatter%22%2C%0A%20%20%22data%22%3A%20%7B%0A%20%20%20%20%22datasets%22%3A%20%5B%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%22label%22%3A%20%22%E6%95%A3%E7%82%B9%E6%95%B0%E6%8D%AE%E9%9B%86%22%2C%0A%20%20%20%20%20%20%20%20%22data%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%7B%20%22x%22%3A%20-10%2C%20%22y%22%3A%200%20%7D%2C%0A%20%20%20%20%20%20%20%20%20%20%7B%20%22x%22%3A%200%2C%20%22y%22%3A%2010%20%7D%2C%0A%20%20%20%20%20%20%20%20%20%20%7B%20%22x%22%3A%2010%2C%20%22y%22%3A%205%20%7D%2C%0A%20%20%20%20%20%20%20%20%20%20%7B%20%22x%22%3A%200.5%2C%20%22y%22%3A%205.5%20%7D%0A%20%20%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%20%20%22backgroundColor%22%3A%20%22rgb(255%2C%2099%2C%20132)%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22options%22%3A%20%7B%0A%20%20%20%20%22scales%22%3A%20%7B%0A%20%20%20%20%20%20%22x%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22linear%22%2C%0A%20%20%20%20%20%20%20%20%22position%22%3A%20%22bottom%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A"><div><pre><code><span>{</span>
+  <span>"type"</span><span>:</span> <span>"scatter"</span><span>,</span>
+  <span>"data"</span><span>:</span> <span>{</span>
+    <span>"datasets"</span><span>:</span> <span>[</span>
+      <span>{</span>
+        <span>"label"</span><span>:</span> <span>"散点数据集"</span><span>,</span>
+        <span>"data"</span><span>:</span> <span>[</span>
+          <span>{</span> <span>"x"</span><span>:</span> <span>-10</span><span>,</span> <span>"y"</span><span>:</span> <span>0</span> <span>}</span><span>,</span>
+          <span>{</span> <span>"x"</span><span>:</span> <span>0</span><span>,</span> <span>"y"</span><span>:</span> <span>10</span> <span>}</span><span>,</span>
+          <span>{</span> <span>"x"</span><span>:</span> <span>10</span><span>,</span> <span>"y"</span><span>:</span> <span>5</span> <span>}</span><span>,</span>
+          <span>{</span> <span>"x"</span><span>:</span> <span>0.5</span><span>,</span> <span>"y"</span><span>:</span> <span>5.5</span> <span>}</span>
+        <span>]</span><span>,</span>
+        <span>"backgroundColor"</span><span>:</span> <span>"rgb(255, 99, 132)"</span>
+      <span>}</span>
+    <span>]</span>
+  <span>}</span><span>,</span>
+  <span>"options"</span><span>:</span> <span>{</span>
+    <span>"scales"</span><span>:</span> <span>{</span>
+      <span>"x"</span><span>:</span> <span>{</span>
+        <span>"type"</span><span>:</span> <span>"linear"</span><span>,</span>
+        <span>"position"</span><span>:</span> <span>"bottom"</span>
+      <span>}</span>
+    <span>}</span>
+  <span>}</span>
+<span>}</span>
+</code></pre><div aria-hidden="true"><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br></div></div></ChartJS><ul>
+<li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/chart.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
+</ul>
+<h3 id="流程图" tabindex="-1"> 流程图</h3>
+<i>Content not supported</i><ul>
+<li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/flowchart.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
+</ul>
+<h3 id="mermaid" tabindex="-1"> Mermaid</h3>
+<i>Content not supported</i><ul>
+<li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/mermaid.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
+</ul>
+<h3 id="tex-语法" tabindex="-1"> Tex 语法</h3>
+<p class='katex-block'><span><span><span><i>Content not supported</i></span><span aria-hidden="true"><span><span style="height:2.4em;vertical-align:-0.95em;"></span><span><span></span><span><span><span><span style="height:1.3714em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.05556em;">∂</span><span><span style="margin-right:0.03588em;">ω</span><span><span><span><span style="height:0.5904em;"><span style="top:-2.989em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.05556em;">∂</span><span><span><span><span style="height:0.6644em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="margin-right:0.1667em;"></span><span><span style="top:0em;"><span>(</span></span><span><span></span><span><span><span><span style="height:1.3414em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.03588em;">ω</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">y</span><span><span><span><span style="height:0.6644em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.03588em;">ω</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>)</span></span></span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:3.0277em;vertical-align:-1.2777em;"></span><span><span style="top:0em;"><span>(</span></span><span><span></span><span><span><span><span style="height:1.3414em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.03588em;">ω</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">y</span><span><span><span><span style="height:0.6644em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.03588em;">ω</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>)</span></span></span><span style="margin-right:0.1667em;"></span><span><span style="top:0em;"><span>{</span></span><span>(</span><span>lo<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.1667em;"></span><span style="margin-right:0.03588em;">y</span><span><span>)</span><span><span><span><span style="height:0.7144em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span><span><span><span><span style="height:1.6514em;"><span style="top:-1.8723em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.05em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.3em;margin-left:0em;"><span style="height:3.05em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:1.2777em;"><span></span></span></span></span></span><span style="margin-right:0.1667em;"></span><span><span></span><span><span><span><span style="height:1.5017em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">ω</span><span><span><span><span style="height:0.7507em;"><span style="top:-2.989em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span>(</span><span>−</span><span>1</span><span><span>)</span><span><span><span><span style="height:0.8247em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span></span></span></span></span><span style="margin-right:0.02778em;">r</span><span style="margin-right:0.1667em;"></span><span>⋯</span><span style="margin-right:0.1667em;"></span><span>(</span><span style="margin-right:0.02778em;">r</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span><span>i</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span><span>1</span><span>)</span><span>(</span><span>lo<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.1667em;"></span><span style="margin-right:0.03588em;">y</span><span><span>)</span><span><span><span><span style="height:0.8247em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.02778em;">r</span><span>−</span><span>i</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>}</span></span></span></span></span></span></span></p>
+<ul>
+<li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/tex.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
+</ul>
+<h3 id="代码演示" tabindex="-1"> 代码演示</h3>
+
+<CodeDemo id="code-demo-3c31404e" title="%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%20Demo" code="%7B%22html%22%3A%22%3Ch1%3EVuePress%20Theme%20Hope%3C%2Fh1%3E%5Cn%3Cp%3E%3Cspan%20id%3D%5C%22very%5C%22%3E%E9%9D%9E%E5%B8%B8%3C%2Fspan%3E%E5%BC%BA%E5%A4%A7!%3C%2Fp%3E%5Cn%22%2C%22js%22%3A%22document.querySelector(%5C%22%23very%5C%22).addEventListener(%5C%22click%5C%22%2C%20()%20%3D%3E%20%7B%5Cn%20%20alert(%5C%22%E9%9D%9E%E5%B8%B8%E5%BC%BA%E5%A4%A7%5C%22)%3B%5Cn%7D)%3B%5Cn%22%2C%22css%22%3A%22span%20%7B%5Cn%20%20color%3A%20red%3B%5Cn%7D%5Cn%22%7D">
+<div><pre><code><span><span><span>&lt;</span>h1</span><span>></span></span>VuePress Theme Hope<span><span><span>&lt;/</span>h1</span><span>></span></span>
+<span><span><span>&lt;</span>p</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>id</span><span><span>=</span><span>"</span>very<span>"</span></span><span>></span></span>非常<span><span><span>&lt;/</span>span</span><span>></span></span>强大!<span><span><span>&lt;/</span>p</span><span>></span></span>
+</code></pre><div aria-hidden="true"><span>1</span><br><span>2</span><br></div></div><div><pre><code>document<span>.</span><span>querySelector</span><span>(</span><span>"#very"</span><span>)</span><span>.</span><span>addEventListener</span><span>(</span><span>"click"</span><span>,</span> <span>(</span><span>)</span> <span>=></span> <span>{</span>
+  <span>alert</span><span>(</span><span>"非常强大"</span><span>)</span><span>;</span>
+<span>}</span><span>)</span><span>;</span>
+</code></pre><div aria-hidden="true"><span>1</span><br><span>2</span><br><span>3</span><br></div></div><div><pre><code><span>span</span> <span>{</span>
+  <span>color</span><span>:</span> red<span>;</span>
+<span>}</span>
+</code></pre><div aria-hidden="true"><span>1</span><br><span>2</span><br><span>3</span><br></div></div></CodeDemo><ul>
+<li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/demo.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
+</ul>
+<h3 id="幻灯片" tabindex="-1"> 幻灯片</h3>
+<i>Content not supported</i><ul>
+<li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/presentation.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
+</ul>
+<hr>
+<section>
+<ol>
+<li id="footnote1"><p>这是脚注内容 </p>
+</li>
+</ol>
+</section>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>主要功能与配置演示</title>
+      <link>http://javapub.net.cn/averyBlog.github.io/guide/</link>
+      <guid>http://javapub.net.cn/averyBlog.github.io/guide/</guid>
+      <source url="http://javapub.net.cn/averyBlog.github.io/rss.xml">主要功能与配置演示</source>
+      <category>使用指南</category>
+      <content:encoded><![CDATA[<h1 id="主要功能与配置演示" tabindex="-1"> 主要功能与配置演示</h1>
+<ul>
+<li>
+<p><a href="/guide/page.html">页面展示</a></p>
+</li>
+<li>
+<p><a href="/guide/markdown.html">Markdown 展示</a></p>
+</li>
+<li>
+<p><a href="/guide/disable.html">禁用展示</a></p>
+</li>
+<li>
+<p><a href="/guide/encrypt.html">加密展示</a></p>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>11111</title>
+      <link>http://javapub.net.cn/averyBlog.github.io/project/ui.html</link>
+      <guid>http://javapub.net.cn/averyBlog.github.io/project/ui.html</guid>
+      <source url="http://javapub.net.cn/averyBlog.github.io/rss.xml">11111</source>
+      <content:encoded><![CDATA[<h1 id="_11111" tabindex="-1"> 11111</h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>幻灯片页</title>
+      <link>http://javapub.net.cn/averyBlog.github.io/zh/slide.html</link>
+      <guid>http://javapub.net.cn/averyBlog.github.io/zh/slide.html</guid>
+      <source url="http://javapub.net.cn/averyBlog.github.io/rss.xml">幻灯片页</source>
+      <content:encoded><![CDATA[
+<i>Content not supported</i>]]></content:encoded>
+      <enclosure url="http://javapub.net.cn/averyBlog.github.io/logo.svg" type="image/svg+xml"/>
+    </item>
+    <item>
+      <title>为什么Vue3的组件库都在使用jsx或tsx</title>
+      <link>http://javapub.net.cn/averyBlog.github.io/willbe/article/%E4%B8%BA%E4%BB%80%E4%B9%88Vue3%E7%9A%84%E7%BB%84%E4%BB%B6%E5%BA%93%E9%83%BD%E5%9C%A8%E4%BD%BF%E7%94%A8jsx%E6%88%96tsx.html</link>
+      <guid>http://javapub.net.cn/averyBlog.github.io/willbe/article/%E4%B8%BA%E4%BB%80%E4%B9%88Vue3%E7%9A%84%E7%BB%84%E4%BB%B6%E5%BA%93%E9%83%BD%E5%9C%A8%E4%BD%BF%E7%94%A8jsx%E6%88%96tsx.html</guid>
+      <source url="http://javapub.net.cn/averyBlog.github.io/rss.xml">为什么Vue3的组件库都在使用jsx或tsx</source>
+      <content:encoded><![CDATA[<h1 id="为什么vue3的组件库都在使用jsx或tsx" tabindex="-1"> 为什么Vue3的组件库都在使用jsx或tsx</h1>
+<p>首先Vue3出现了composition API，optionsAPI与compositionAPI的区别如下：</p>
+<p>Vue2使用的是optionsAPI来定义一个组件内部的属性如method、data等，但是在项目中如果想实现一个功能，可能会在method、computed等书写逻辑，就会使后面维护的时候难寻找到这个功能的逻辑，所以出现了compositionAPI，将同一个功能的api统一放到一个地方，这样的话开发和维护就简便了很多。</p>
+<p>对于JSX和template，在业务场景下尽量选择template。Vue3基于template分析做了很多优化，并且对使用者是透明的，编译器默默完成优化操作，而使用JSX的话需要手动进行一些优化操作，比如提取静态的JSX片段到render函数外部。而组件库的代码一般比业务代码具有更强的动态性，使用JSX可以灵活控制动态DOM片段。</p>
+<p>举个例子，假设有一个场景，需要根据 props 上的 reverse 属性，来决定是否要调换两块内容的渲染顺序。</p>
+<p>在 JSX 中可以很容易实现：</p>
+<div><pre><code><span>const</span> <span>renderContent</span> <span>=</span> <span>(</span><span>)</span> <span>=></span> <span>{</span>
+  <span>const</span> Content <span>=</span> <span>[</span>
+    <span><span><span>&lt;</span>div</span> <span>class</span><span><span>=</span><span>"</span>foo<span>"</span></span><span>></span></span><span>Foo DOM...</span><span><span><span>&lt;/</span>div</span><span>></span></span><span>,</span>
+    <span><span><span>&lt;</span>div</span> <span>class</span><span><span>=</span><span>"</span>bar<span>"</span></span><span>></span></span><span>Bar DOM...</span><span><span><span>&lt;/</span>div</span><span>></span></span><span>,</span>
+  <span>]</span><span>;</span>
+  <span>if</span> <span>(</span>props<span>.</span>reverse<span>)</span> <span>{</span>
+    Content<span>.</span><span>reverse</span><span>(</span><span>)</span><span>;</span>
+  <span>}</span>
+  <span>return</span> <span><span><span>&lt;</span>div</span><span>></span></span><span>{</span>Content<span>}</span><span><span><span>&lt;/</span>div</span><span>></span></span><span>;</span>
+<span>}</span>
+</code></pre><div aria-hidden="true"><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><p>如果通过模板来实现，在不抽象子组件的情况下，foo 和 bar 的模板结构需要重复写两遍，才能满足这个需求：</p>
+<div><pre><code><span><span><span>&lt;</span>template</span><span>></span></span><span>
+  </span><span><span><span>&lt;</span>div</span><span>></span></span><span>
+    </span><span><span><span>&lt;</span>template</span> <span>v-if</span><span><span>=</span><span>"</span>reverse<span>"</span></span><span>></span></span><span>
+      </span><span><span><span>&lt;</span>div</span> <span>class</span><span><span>=</span><span>"</span>bar<span>"</span></span><span>></span></span><span>Bar DOM...</span><span><span><span>&lt;/</span>div</span><span>></span></span><span>
+      </span><span><span><span>&lt;</span>div</span> <span>class</span><span><span>=</span><span>"</span>foo<span>"</span></span><span>></span></span><span>Foo DOM...</span><span><span><span>&lt;/</span>div</span><span>></span></span><span>
+    </span><span><span><span>&lt;/</span>template</span><span>></span></span><span>
+    </span><span><span><span>&lt;</span>template</span> <span>v-else</span><span>></span></span><span>
+      </span><span><span><span>&lt;</span>div</span> <span>class</span><span><span>=</span><span>"</span>foo<span>"</span></span><span>></span></span><span>Foo DOM...</span><span><span><span>&lt;/</span>div</span><span>></span></span><span>
+      </span><span><span><span>&lt;</span>div</span> <span>class</span><span><span>=</span><span>"</span>bar<span>"</span></span><span>></span></span><span>Bar DOM...</span><span><span><span>&lt;/</span>div</span><span>></span></span><span>
+    </span><span><span><span>&lt;/</span>template</span><span>></span></span><span>
+  </span><span><span><span>&lt;/</span>div</span><span>></span></span><span>
+</span><span><span><span>&lt;/</span>template</span><span>></span></span>
+</code></pre><div aria-hidden="true"><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div><p><code>JSX</code> 是 <code>JavaScript</code> 的扩展语法，这种 <code>&lt;&gt;&lt;/&gt;</code> 标签的写法就是 JSX。JSX 编写的组件通过预处理器 babel 解析后，再交给 React 库渲染到指定<a href="https://www.zhihu.com/search?q=%E7%88%B6%E5%AE%B9%E5%99%A8&amp;search_source=Entity&amp;hybrid_search_source=Entity&amp;hybrid_search_extra=%7B%22sourceType%22%3A%22article%22%2C%22sourceId%22%3A%22419011328%22%7D" target="_blank" rel="noopener noreferrer">父容器</a>下，形成最终html页面，供浏览器解析和显示。</p>
+<p>JSX的表达能力比template更强，JSX的表达上限是JS语言，而template表达能力的上限是Vue的各种指令。</p>
+<p>JSX的好处之一是把组件或标签当作普通属性传来传去，而template只能使用slot。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>什么是堆栈？它们之间的区别与联系</title>
+      <link>http://javapub.net.cn/averyBlog.github.io/willbe/article/%E4%BB%80%E4%B9%88%E6%98%AF%E5%A0%86%E6%A0%88%EF%BC%9F%E5%AE%83%E4%BB%AC%E4%B9%8B%E9%97%B4%E7%9A%84%E5%8C%BA%E5%88%AB%E4%B8%8E%E8%81%94%E7%B3%BB.html</link>
+      <guid>http://javapub.net.cn/averyBlog.github.io/willbe/article/%E4%BB%80%E4%B9%88%E6%98%AF%E5%A0%86%E6%A0%88%EF%BC%9F%E5%AE%83%E4%BB%AC%E4%B9%8B%E9%97%B4%E7%9A%84%E5%8C%BA%E5%88%AB%E4%B8%8E%E8%81%94%E7%B3%BB.html</guid>
+      <source url="http://javapub.net.cn/averyBlog.github.io/rss.xml">什么是堆栈？它们之间的区别与联系</source>
+      <content:encoded><![CDATA[<h1 id="什么是堆栈-它们之间的区别与联系" tabindex="-1"> 什么是堆栈？它们之间的区别与联系</h1>
+<p>堆和栈的概念存在于数据结构和操作系统内存中。在数据结构中，栈的存取方式是先进后出的，而堆是一个优先队列，按优先级来进行排序。优先级可以按照大小来规定。完全二叉树就是堆的一种方式。</p>
+<p>而在操作系统中，</p>
+<p>栈区，是由编译器自动分配释放，存放函数的参数值、局部变量等，他的操作方式类似数据结构中的栈</p>
+<p>堆区，是由程序员分配和释放的，如果程序员不主动释放，程序结束时会有垃圾回收机制回收</p>
+<p>区别与联系：</p>
+<p>1.申请方式不同</p>
+<p>栈是由系统自动分配，如声明在函数中一个基本类型变量，系统将会在栈中分配一块空间</p>
+<p>堆是需要程序员自己申请并指明大小</p>
+<p>2.申请后系统的响应</p>
+<p>对于栈，只要栈的剩余空间大于所申请的空间，系统就会为程序提供内存，否则将报异常提示栈溢出</p>
+<p>对于堆，操作系统有一个记录空闲内存地址的链表，当系统收到程序的申请时，会遍历该链表，寻找第一个空间大于所申请空间的堆结点，然后将该结点从空闲结点链表中删除，并且将该结点的空间分配给程序，另外，对于大多数的系统，会在这块内存空间的首地址记录本次分配的大小，这样，代码中的delete语句才能正确的释放本内存空间。另外，由于找到的堆结点的大小不一定正好等于申请的大小，系统会自动的将多余的那部分重新放入空闲链表中。</p>
+<p>3.申请大小的限制</p>
+<p>栈：在windows下，栈是向低地址扩展的数据结构，是一块连续的内存的区域。栈顶的地址和栈的最大容量是系统预先规定好的，在windows下，栈的大小2M，如果申请的空间超过栈的剩余空间，将提示栈溢出</p>
+<p>堆：堆是向高地址扩展的数据结构，是不连续的内存区域，这是由于系统使用链表来存储的空间内存地址，而链表的遍历方向是由低地址向高地址。堆的大小受限于计算机系统中有效的虚拟内存</p>
+<p>4.申请效率的比较</p>
+<p>栈是由系统分配，速度较快，但程序员是无法控制的</p>
+<p>堆是由new分配的内存，一般速度会比栈慢，而且容易产生内存碎片</p>
+<p>总结：堆和栈的概念存在于数据结构中和操作系统内存中。在数据结构中，栈中数据的存取方式为 先进后出。而堆是一个优先队列，是按优先级来进行排序的，优先级可以按照大小来规定。完全 二叉树是堆的一种实现方式。在操作系统中，内存被分为栈区和堆区。栈区内存由编译器自动分 配释放，存放函数的参数值，局部变量的值等。其操作方式类似于数据结构中的栈。堆区内存一 般由程序员分配释放，若程序员不释放，程序结束时可能由垃圾回收机制回收。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>如何让{}==1，JavaScript中的装箱和拆箱</title>
+      <link>http://javapub.net.cn/averyBlog.github.io/willbe/article/%E5%A6%82%E4%BD%95%E8%AE%A9%7B%7D==1.html</link>
+      <guid>http://javapub.net.cn/averyBlog.github.io/willbe/article/%E5%A6%82%E4%BD%95%E8%AE%A9%7B%7D==1.html</guid>
+      <source url="http://javapub.net.cn/averyBlog.github.io/rss.xml">如何让{}==1，JavaScript中的装箱和拆箱</source>
+      <content:encoded><![CDATA[<h1 id="如何让-1-javascript中的装箱和拆箱" tabindex="-1"> 如何让{}==1，JavaScript中的装箱和拆箱</h1>
+<p><img src="C:\Users\luowanting\AppData\Roaming\Typora\typora-user-images\image-20220713163905915.png" alt="image-20220713163905915" loading="lazy"></p>
+<p>首先我们可以看到在浏览器中，{}==1是为false，那怎么才能让他为true呢？</p>
+<p>试试下面的代码</p>
+<div><pre><code>Object.prototype.valueOf=()=>1
+console.log({}==1)
+</code></pre><div aria-hidden="true"><span>1</span><br><span>2</span><br></div></div><p><img src="C:\Users\luowanting\AppData\Roaming\Typora\typora-user-images\image-20220713173520537.png" alt="image-20220713173520537" loading="lazy"></p>
+<p>JavaScript有两种数据类型</p>
+<p>基本数据类型：字符串（String）、数字(Number)、布尔(Boolean)、空（Null）、未定义（Undefined）、Symbol</p>
+<p>引用类型：对象(Object)、数组(Array)、函数(Function)</p>
+<p>在js中，有四个基本的包装类型String、Number、Boolean、Symbol</p>
+<h2 id="装箱操作" tabindex="-1"> 装箱操作</h2>
+<p>所谓装箱就是将基本数据类型转换为对应的引用类型的操作。</p>
+<p>装箱分隐式装箱和显式装箱两种方式</p>
+<h3 id="隐式装箱" tabindex="-1"> 隐式装箱</h3>
+<p>隐式装箱由 <strong>引擎自动执行</strong></p>
+<div><pre><code>let a=123
+</code></pre><div aria-hidden="true"><span>1</span><br></div></div><p>基本类型是不能添加属性和方法的，添加会报错。</p>
+<div><pre><code>let a="js"
+a.subText="vue"
+a.subTextfn=()=>{
+	console.log('react')
+}
+console.log(a.subText)
+console.log(a.subTextFn())//Uncaught TypeError: a.subTextFn is not a function
+</code></pre><div aria-hidden="true"><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div><p>那为什么普通的字符串类型可以调用方法呢，比如a.substring(),a.indexOf()等</p>
+<p>这就要提到装箱，在读取值得时候，引擎会创建一个基本类型所对应得 <strong>包装类型的对象</strong></p>
+<p><img src="https://img2020.cnblogs.com/blog/1158910/202102/1158910-20210224170755139-1517604156.png" alt="img" loading="lazy"></p>
+<p>隐式装箱的执行步骤</p>
+<div><pre><code>let s1="s1"//隐式装箱
+let s2=s1.substring(2)
+</code></pre><div aria-hidden="true"><span>1</span><br><span>2</span><br></div></div><p>执行步骤:</p>
+<p>(1) 先创建String类型的一个实例</p>
+<p>(2)在实例中调用制定的方法</p>
+<p>(3)销毁这个实例</p>
+<p>上面的三个步骤转换为代码，如下：</p>
+<div><pre><code>// 1
+let s1 = new String('s1');
+// 2
+let s2 = s1.substring(2);
+// 3
+s1 = null;
+</code></pre><div aria-hidden="true"><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>所以我们在基本类型上可以使用方法，是因为有隐式装箱操作。</p>
+<p>隐式装箱当读取一个基本类型值时，后台会创建一个该基本类型所对应的基本包装类型对象。在这个基本类型的对象上调用方法，其实就是在这个包装类型的对象调用方法，这个基本包装类型的对象是临时的，它只存在于方法调用那一行代码执行的瞬间，执行方法后立即被销毁。这也就是在基本类型上添加属性和方法会不识别或报错的原因</p>
+<h3 id="显式装箱" tabindex="-1"> 显式装箱</h3>
+<p>显示装箱通过基本包装类型对象对基本类型进行显示装箱</p>
+<div><pre><code>let s1 = new String('s1');
+</code></pre><div aria-hidden="true"><span>1</span><br></div></div><h2 id="拆箱" tabindex="-1"> 拆箱</h2>
+<p>拆箱和装箱相反了，拆箱是指把引用类型转换为基本的数据类型。通常通过引用类型的 <code>valueOf()</code>和<code>toString()</code>方法来实现</p>
+<p>引用类型的值转换成基本类型的值就是拆箱，拆箱必须要提两个方法 toString() 和 valueOf() ，toString() 返回字符串，valueOf() 返回对象本身。</p>
+<div><pre><code>//更改对象的 toString() 和 valueOf() 两个方法：
+var web = {
+  'name':'html',
+  valueOf: () => {
+    console.log("valueOf");
+  },
+  toString: () => {
+    console.log("toString");
+  }
+}
+console.log(String(web))//toString undefined
+console.log(Number(web))//valueOf NaN
+</code></pre><div aria-hidden="true"><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div><p>为什么有时候先走了valueOf() 有时候先执行toString()</p>
+<p>对象中有toPrimitive方法，此方法提供了用于将对象强制换为基元并替换toString()和valueOf()方法的通用接口</p>
+<p>运行方法时，判断preferredType的值是哪种类型：</p>
+<p>如果是Number：</p>
+<p>(1)如果是基本类型,则按原样返回。</p>
+<p>(2)否则，输入的是一个对象，调用obj.valueOf()方法，如果结果是原始的，则将其返回。</p>
+<p>(3)否则，调用obj.toString()方法，如果结果是原始数据，则将其返回</p>
+<p>(4)否则，抛出TypeError</p>
+<p>如果是String，则调换(2)(3)</p>
+<p>如果没有PreferredType，对于Date的实例将其设置为String。</p>
+<p>对于所有其他值，设置为Number</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>组件禁用</title>
+      <link>http://javapub.net.cn/averyBlog.github.io/zh/guide/disable.html</link>
+      <guid>http://javapub.net.cn/averyBlog.github.io/zh/guide/disable.html</guid>
+      <source url="http://javapub.net.cn/averyBlog.github.io/rss.xml">组件禁用</source>
+      <description>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。
+</description>
+      <category>使用指南</category>
+      <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
+
+<p>本页面应当禁用了:</p>
+<ul>
+<li>导航栏</li>
+<li>侧边栏</li>
+<li>路径导航</li>
+<li>页面信息</li>
+<li>贡献者</li>
+<li>编辑此页链接</li>
+<li>更新时间</li>
+<li>上一篇/下一篇 链接</li>
+<li>评论</li>
+<li>页脚</li>
+<li>返回顶部按钮</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>密码加密的文章</title>
+      <link>http://javapub.net.cn/averyBlog.github.io/zh/guide/encrypt.html</link>
+      <guid>http://javapub.net.cn/averyBlog.github.io/zh/guide/encrypt.html</guid>
+      <source url="http://javapub.net.cn/averyBlog.github.io/rss.xml">密码加密的文章</source>
+      <category>使用指南</category>
+      <content:encoded><![CDATA[<h1 id="密码加密的文章" tabindex="-1"> 密码加密的文章</h1>
+<p>实际的文章内容。</p>
+<p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
+<p>段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Markdown 增强</title>
+      <link>http://javapub.net.cn/averyBlog.github.io/zh/guide/markdown.html</link>
+      <guid>http://javapub.net.cn/averyBlog.github.io/zh/guide/markdown.html</guid>
+      <source url="http://javapub.net.cn/averyBlog.github.io/rss.xml">Markdown 增强</source>
+      <description>VuePress 的每个文档页面都是由 Markdown 渲染而成。所以你需要通过在相应路径创建编写 Markdown 建立你的文档或博客页面。
+</description>
+      <category>使用指南</category>
+      <content:encoded><![CDATA[<p>VuePress 的每个文档页面都是由 Markdown 渲染而成。所以你需要通过在相应路径创建编写 Markdown 建立你的文档或博客页面。</p>
+
+<h2 id="markdown-介绍" tabindex="-1"> Markdown 介绍</h2>
+<p>如果你是一个新手，还不会编写 Markdown，请先阅读 <a href="https://vuepress-theme-hope.github.io/v2/zh/basic/markdown/README.html" target="_blank" rel="noopener noreferrer">Markdown 介绍</a> 和 <a href="https://vuepress-theme-hope.github.io/v2/zh/basic/markdown/demo.html" target="_blank" rel="noopener noreferrer">Markdown 演示</a>。</p>
+<div><p>Frontmatter</p>
+<p>Frontmatter 是 VuePress 中很重要的一个概念，如果你不了解它，你需要阅读 <a href="https://vuepress-theme-hope.github.io/v2/zh/basic/vuepress/page.html#front-matter" target="_blank" rel="noopener noreferrer">Frontmatter 介绍</a>。</p>
+</div>
+<h2 id="vuepress-扩展" tabindex="-1"> VuePress 扩展</h2>
+<p>为了丰富文档写作，VuePress 对 Markdown 语法进行了扩展。</p>
+<p>关于这些扩展，请阅读 <a href="https://vuepress-theme-hope.github.io/v2/zh/basic/vuepress/markdown.html" target="_blank" rel="noopener noreferrer">VuePress 中的 Markdown 扩展</a>。</p>
+<h2 id="主题扩展" tabindex="-1"> 主题扩展</h2>
+<h3 id="一键启用" tabindex="-1"> 一键启用</h3>
+<p>你可以设置 <code>themeconfig.plugins.htmlEnhance.enableAll</code> 启用 <a href="https://vuepress-theme-hope.github.io/v2/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a> 插件的所有功能。</p>
+<div><pre><code>module<span>.</span>exports <span>=</span> <span>{</span>
+  <span>themeConfig</span><span>:</span> <span>{</span>
+    <span>plugins</span><span>:</span> <span>{</span>
+      <span>mdEnhance</span><span>:</span> <span>{</span>
+        <span>enableAll</span><span>:</span> <span>true</span><span>,</span>
+      <span>}</span><span>,</span>
+    <span>}</span><span>,</span>
+  <span>}</span><span>,</span>
+<span>}</span><span>;</span>
+</code></pre><div><br><br><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div><br><br><br><br></div><div aria-hidden="true"><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div><h3 id="自定义容器" tabindex="-1"> 自定义容器</h3>
+<div>
+<p>安全的在 Markdown 中使用 {{ variable }}。</p>
+</div>
+<div><p>自定义标题</p>
+<p>信息容器，包含 <code>代码</code> 与 。</p>
+<div><pre><code><span>const</span> a <span>=</span> <span>1</span><span>;</span>
+</code></pre><div aria-hidden="true"><span>1</span><br></div></div></div>
+<div><p>自定义标题</p>
+<p>提示容器</p>
+</div>
+<div><p>自定义标题</p>
+<p>警告容器</p>
+</div>
+<div><p>自定义标题</p>
+<p>危险容器</p>
+</div>
+<details><summary>自定义标题</summary>
+<p>详情容器</p>
+</details>
+<details><summary>代码</summary>
+<div><pre><code>:::
+
+安全的在 Markdown 中使用 {{ variable }}。
+
+:::
+
+::: info 自定义标题
+
+信息容器
+
+:::
+
+::: tip 自定义标题
+
+提示容器
+
+:::
+
+::: warning 自定义标题
+
+警告容器
+
+:::
+
+::: danger 自定义标题
+
+危险容器
+
+:::
+
+::: details 自定义标题
+
+详情容器
+
+:::
+</code></pre><div aria-hidden="true"><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br></div></div></details>
+<ul>
+<li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/container.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
+</ul>
+<h3 id="代码块" tabindex="-1"> 代码块</h3>
+<CodeGroup>
+<CodeGroupItem title="yarn">
+<div><pre><code><span>yarn</span> <span>add</span> -D vuepress-theme-hope
+</code></pre><div aria-hidden="true"><span>1</span><br></div></div></CodeGroupItem>
+<CodeGroupItem title="npm" active>
+<div><pre><code><span>npm</span> i -D vuepress-theme-hope
+</code></pre><div aria-hidden="true"><span>1</span><br></div></div></CodeGroupItem>
+</CodeGroup>
+<ul>
+<li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/code-group.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
+</ul>
+<h3 id="自定义对齐" tabindex="-1"> 自定义对齐</h3>
+<div>
+<p>我是居中的</p>
+</div>
+<div>
+<p>我在右对齐</p>
+</div>
+<ul>
+<li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/align.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
+</ul>
+<h3 id="上下角标" tabindex="-1"> 上下角标</h3>
+<p>19<sup>th</sup> H<sub>2</sub>O</p>
+<ul>
+<li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/sup-sub.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
+</ul>
+<h3 id="脚注" tabindex="-1"> 脚注</h3>
+<p>此文字有脚注<sup></sup>.</p>
+<ul>
+<li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/footnote.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
+</ul>
+<h3 id="标记" tabindex="-1"> 标记</h3>
+<p>你可以标记 <mark>重要的内容</mark> 。</p>
+<ul>
+<li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/mark.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
+</ul>
+<h3 id="任务列表" tabindex="-1"> 任务列表</h3>
+<ul>
+<li>
+<p><input type="checkbox" checked="checked" disabled="disabled" id="task-item-0"><label for="task-item-0"> 计划 1</label></p>
+</li>
+<li>
+<p><input type="checkbox"  disabled="disabled" id="task-item-1"><label for="task-item-1"> 计划 2</label></p>
+</li>
+<li>
+<p><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/tasklist.html" target="_blank" rel="noopener noreferrer">查看详情</a></p>
+</li>
+</ul>
+<h3 id="图表" tabindex="-1"> 图表</h3>
+<ChartJS title="一个散点图案例" id="chart-64a56f28" config="%7B%0A%20%20%22type%22%3A%20%22scatter%22%2C%0A%20%20%22data%22%3A%20%7B%0A%20%20%20%20%22datasets%22%3A%20%5B%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%22label%22%3A%20%22%E6%95%A3%E7%82%B9%E6%95%B0%E6%8D%AE%E9%9B%86%22%2C%0A%20%20%20%20%20%20%20%20%22data%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%7B%20%22x%22%3A%20-10%2C%20%22y%22%3A%200%20%7D%2C%0A%20%20%20%20%20%20%20%20%20%20%7B%20%22x%22%3A%200%2C%20%22y%22%3A%2010%20%7D%2C%0A%20%20%20%20%20%20%20%20%20%20%7B%20%22x%22%3A%2010%2C%20%22y%22%3A%205%20%7D%2C%0A%20%20%20%20%20%20%20%20%20%20%7B%20%22x%22%3A%200.5%2C%20%22y%22%3A%205.5%20%7D%0A%20%20%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%20%20%22backgroundColor%22%3A%20%22rgb(255%2C%2099%2C%20132)%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22options%22%3A%20%7B%0A%20%20%20%20%22scales%22%3A%20%7B%0A%20%20%20%20%20%20%22x%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22linear%22%2C%0A%20%20%20%20%20%20%20%20%22position%22%3A%20%22bottom%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A"><div><pre><code><span>{</span>
+  <span>"type"</span><span>:</span> <span>"scatter"</span><span>,</span>
+  <span>"data"</span><span>:</span> <span>{</span>
+    <span>"datasets"</span><span>:</span> <span>[</span>
+      <span>{</span>
+        <span>"label"</span><span>:</span> <span>"散点数据集"</span><span>,</span>
+        <span>"data"</span><span>:</span> <span>[</span>
+          <span>{</span> <span>"x"</span><span>:</span> <span>-10</span><span>,</span> <span>"y"</span><span>:</span> <span>0</span> <span>}</span><span>,</span>
+          <span>{</span> <span>"x"</span><span>:</span> <span>0</span><span>,</span> <span>"y"</span><span>:</span> <span>10</span> <span>}</span><span>,</span>
+          <span>{</span> <span>"x"</span><span>:</span> <span>10</span><span>,</span> <span>"y"</span><span>:</span> <span>5</span> <span>}</span><span>,</span>
+          <span>{</span> <span>"x"</span><span>:</span> <span>0.5</span><span>,</span> <span>"y"</span><span>:</span> <span>5.5</span> <span>}</span>
+        <span>]</span><span>,</span>
+        <span>"backgroundColor"</span><span>:</span> <span>"rgb(255, 99, 132)"</span>
+      <span>}</span>
+    <span>]</span>
+  <span>}</span><span>,</span>
+  <span>"options"</span><span>:</span> <span>{</span>
+    <span>"scales"</span><span>:</span> <span>{</span>
+      <span>"x"</span><span>:</span> <span>{</span>
+        <span>"type"</span><span>:</span> <span>"linear"</span><span>,</span>
+        <span>"position"</span><span>:</span> <span>"bottom"</span>
+      <span>}</span>
+    <span>}</span>
+  <span>}</span>
+<span>}</span>
+</code></pre><div aria-hidden="true"><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br></div></div></ChartJS><ul>
+<li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/chart.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
+</ul>
+<h3 id="流程图" tabindex="-1"> 流程图</h3>
+<i>Content not supported</i><ul>
+<li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/flowchart.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
+</ul>
+<h3 id="mermaid" tabindex="-1"> Mermaid</h3>
+<i>Content not supported</i><ul>
+<li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/mermaid.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
+</ul>
+<h3 id="tex-语法" tabindex="-1"> Tex 语法</h3>
+<p class='katex-block'><span><span><span><i>Content not supported</i></span><span aria-hidden="true"><span><span style="height:2.4em;vertical-align:-0.95em;"></span><span><span></span><span><span><span><span style="height:1.3714em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.05556em;">∂</span><span><span style="margin-right:0.03588em;">ω</span><span><span><span><span style="height:0.5904em;"><span style="top:-2.989em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.05556em;">∂</span><span><span><span><span style="height:0.6644em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="margin-right:0.1667em;"></span><span><span style="top:0em;"><span>(</span></span><span><span></span><span><span><span><span style="height:1.3414em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.03588em;">ω</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">y</span><span><span><span><span style="height:0.6644em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.03588em;">ω</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>)</span></span></span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:3.0277em;vertical-align:-1.2777em;"></span><span><span style="top:0em;"><span>(</span></span><span><span></span><span><span><span><span style="height:1.3414em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.03588em;">ω</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">y</span><span><span><span><span style="height:0.6644em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.03588em;">ω</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>)</span></span></span><span style="margin-right:0.1667em;"></span><span><span style="top:0em;"><span>{</span></span><span>(</span><span>lo<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.1667em;"></span><span style="margin-right:0.03588em;">y</span><span><span>)</span><span><span><span><span style="height:0.7144em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span><span><span><span><span style="height:1.6514em;"><span style="top:-1.8723em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.05em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.3em;margin-left:0em;"><span style="height:3.05em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:1.2777em;"><span></span></span></span></span></span><span style="margin-right:0.1667em;"></span><span><span></span><span><span><span><span style="height:1.5017em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">ω</span><span><span><span><span style="height:0.7507em;"><span style="top:-2.989em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span>(</span><span>−</span><span>1</span><span><span>)</span><span><span><span><span style="height:0.8247em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span></span></span></span></span><span style="margin-right:0.02778em;">r</span><span style="margin-right:0.1667em;"></span><span>⋯</span><span style="margin-right:0.1667em;"></span><span>(</span><span style="margin-right:0.02778em;">r</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span><span>i</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span><span>1</span><span>)</span><span>(</span><span>lo<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.1667em;"></span><span style="margin-right:0.03588em;">y</span><span><span>)</span><span><span><span><span style="height:0.8247em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.02778em;">r</span><span>−</span><span>i</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>}</span></span></span></span></span></span></span></p>
+<ul>
+<li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/tex.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
+</ul>
+<h3 id="代码演示" tabindex="-1"> 代码演示</h3>
+
+<CodeDemo id="code-demo-3c31404e" title="%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%20Demo" code="%7B%22html%22%3A%22%3Ch1%3EVuePress%20Theme%20Hope%3C%2Fh1%3E%5Cn%3Cp%3E%3Cspan%20id%3D%5C%22very%5C%22%3E%E9%9D%9E%E5%B8%B8%3C%2Fspan%3E%E5%BC%BA%E5%A4%A7!%3C%2Fp%3E%5Cn%22%2C%22js%22%3A%22document.querySelector(%5C%22%23very%5C%22).addEventListener(%5C%22click%5C%22%2C%20()%20%3D%3E%20%7B%5Cn%20%20alert(%5C%22%E9%9D%9E%E5%B8%B8%E5%BC%BA%E5%A4%A7%5C%22)%3B%5Cn%7D)%3B%5Cn%22%2C%22css%22%3A%22span%20%7B%5Cn%20%20color%3A%20red%3B%5Cn%7D%5Cn%22%7D">
+<div><pre><code><span><span><span>&lt;</span>h1</span><span>></span></span>VuePress Theme Hope<span><span><span>&lt;/</span>h1</span><span>></span></span>
+<span><span><span>&lt;</span>p</span><span>></span></span><span><span><span>&lt;</span>span</span> <span>id</span><span><span>=</span><span>"</span>very<span>"</span></span><span>></span></span>非常<span><span><span>&lt;/</span>span</span><span>></span></span>强大!<span><span><span>&lt;/</span>p</span><span>></span></span>
+</code></pre><div aria-hidden="true"><span>1</span><br><span>2</span><br></div></div><div><pre><code>document<span>.</span><span>querySelector</span><span>(</span><span>"#very"</span><span>)</span><span>.</span><span>addEventListener</span><span>(</span><span>"click"</span><span>,</span> <span>(</span><span>)</span> <span>=></span> <span>{</span>
+  <span>alert</span><span>(</span><span>"非常强大"</span><span>)</span><span>;</span>
+<span>}</span><span>)</span><span>;</span>
+</code></pre><div aria-hidden="true"><span>1</span><br><span>2</span><br><span>3</span><br></div></div><div><pre><code><span>span</span> <span>{</span>
+  <span>color</span><span>:</span> red<span>;</span>
+<span>}</span>
+</code></pre><div aria-hidden="true"><span>1</span><br><span>2</span><br><span>3</span><br></div></div></CodeDemo><ul>
+<li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/demo.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
+</ul>
+<h3 id="幻灯片" tabindex="-1"> 幻灯片</h3>
+<i>Content not supported</i><ul>
+<li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/presentation.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
+</ul>
+<hr>
+<section>
+<ol>
+<li id="footnote1"><p>这是脚注内容 </p>
+</li>
+</ol>
+</section>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>主要功能与配置演示</title>
+      <link>http://javapub.net.cn/averyBlog.github.io/zh/guide/</link>
+      <guid>http://javapub.net.cn/averyBlog.github.io/zh/guide/</guid>
+      <source url="http://javapub.net.cn/averyBlog.github.io/rss.xml">主要功能与配置演示</source>
+      <category>使用指南</category>
+      <content:encoded><![CDATA[<h1 id="主要功能与配置演示" tabindex="-1"> 主要功能与配置演示</h1>
+<ul>
+<li>
+<p><a href="/zh/guide/page.html">页面展示</a></p>
+</li>
+<li>
+<p><a href="/zh/guide/markdown.html">Markdown 展示</a></p>
+</li>
+<li>
+<p><a href="/zh/guide/disable.html">禁用展示</a></p>
+</li>
+<li>
+<p><a href="/zh/guide/encrypt.html">加密展示</a></p>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
